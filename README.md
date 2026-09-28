@@ -1,3 +1,6 @@
+[![Java School Database](https://github.com/ShahShamshiri/School-Database/actions/workflows/maven.yml/badge.svg)](https://github.com/ShahShamshiri/School-Database/actions/workflows/maven.yml)
+
+
 # Code Assignment: SQL Queries
 ## Overview
 
